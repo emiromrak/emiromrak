@@ -23,7 +23,5 @@
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiromrak&layout=compact&theme=merko" alt="Most used languages" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=emiromrak&theme=merko" alt="GitHub Streak" />
 
